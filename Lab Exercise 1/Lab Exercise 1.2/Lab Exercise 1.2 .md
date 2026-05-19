@@ -1,4 +1,5 @@
-![My Picture](Screenshot 2026-05-19 181713)
+<img width="1100" height="707" alt="Screenshot 2026-05-19 181713" src="https://github.com/user-attachments/assets/875ab2cf-2512-488f-a299-f1b6d6b81698" />
+
 
 This circuit project uses an Arduino Uno to control multiple LEDs connected through digital output pins. Each LED is paired with a resistor to limit the electrical current and protect the components from damage. The breadboard is used to organize the circuit connections and provide a common ground connection for all LEDs.
 
