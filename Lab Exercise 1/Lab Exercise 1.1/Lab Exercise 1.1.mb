@@ -1,3 +1,3 @@
 
 
-This circuit shows an **Arduino Uno connected to multiple LEDs** on a breadboard. Each LED is connected to a digital pin of the Arduino through a resistor to control the flow of electricity and protect the LEDs from damage. The black wires are connected to the ground (GND), while the red wires connect the LEDs to the Arduino output pins. This setup is commonly used for LED blinking patterns or light sequence projects in Arduino programming.
+This circuit shows an Arduino Uno connected to multiple LEDs on a breadboard. Each LED is connected to a digital pin of the Arduino through a resistor to control the flow of electricity and protect the LEDs from damage. The black wires are connected to the ground (GND), while the red wires connect the LEDs to the Arduino output pins. This setup is commonly used for LED blinking patterns or light sequence projects in Arduino programming.
