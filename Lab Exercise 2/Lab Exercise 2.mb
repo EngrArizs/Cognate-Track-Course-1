@@ -1,4 +1,4 @@
-"C:\Users\ARIZ\OneDrive\Desktop\Screenshot 2026-05-21 225755.png"
+
 This circuit is a 7-segment display counter using Arduino Uno and two push buttons. Signals are sent to pins 2-8 of the Arduino to control the display, lighting up different segments to form the numbers 0-9.
 
 The two buttons serve to:
